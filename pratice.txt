@@ -1,9 +1,0 @@
-app/
-  app.py
-Dockerfile
-buildspec.yml
-scripts/
-  install.sh
-  start.sh
-
-
